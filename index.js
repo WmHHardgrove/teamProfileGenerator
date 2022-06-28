@@ -150,12 +150,13 @@ const addManager = () => {
             type: 'input',
             name: 'email',
             message: "Enter the manager's email.",
-            validate: nameInput => {
-                if  (isNaN(nameInput)) {
-                    console.log ("Enter the manager's email address!")
-                    return false; 
-                } else {
+            validate: email => {
+                valid = /^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/.test(email)
+                if (valid) {
                     return true;
+                } else {
+                    console.log ('Please enter an email!')
+                    return false; 
                 }
             }
         },
@@ -207,3 +208,5 @@ addManager()
   .catch(err => {
  console.log(err);
   });
+
+  
