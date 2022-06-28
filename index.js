@@ -1,4 +1,4 @@
-const generateHTML = require('./src/generateHTML');
+const generateHTML = require('./src/cardTemplate');
 const Manager = require('./classes/Manager');
 const Engineer = require('./classes/Engineer');
 const Intern = require('./classes/Intern');  
