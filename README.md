@@ -1,14 +1,13 @@
 # Team Profile Generator
-
+---
   
   ## Description 
-  An application to add user input and to 
+  An application to add user input and to organize a office team.
   
   
   ## Table of Contents
   * [License](#license)
   * [Contributors](#contributors)
-  * [Instalation](#instalation)
   * [Usage](#usage)
   * [Tests](#tests)
   * [Repo](#repo)
@@ -23,22 +22,21 @@
   Contributions are welcome.  To contribute contact Bill Hardgrove (contact info below)
     
 
-  ## Instalation
-  Directions for instalation
-  N/A
 
   ## Usage
-  N/A
+  To launch... type ```node index.js``` in your terminal
 
   ## Tests
-  To run a test...
-  N/A
+  To run a test... type ```jest``` in your  terminal
+  
 
   ## Repo
   The Github repo is https://github.com/WmHHardgrove/READMEgenerator
 
   ##  URL
- https://drive.google.com/file/d/1fAgKJ7mV5tx3vaVrVHY40jwDm4t1AzU2/view
+  https://drive.google.com/file/d/14H2MEo3KdwHTmrDNBJaUEgpZGafLFviN/view 
+
+  <img src="./dist/images/HTMLTeamProfile.png" alt="Generatedd HTML page screenshot" >
 
   ## Questions
   If you have any questions about this projects, please contact me directly at Wmhhardgroveiv@gmail.com. You can view more of my projects at https://github.com/WmHHardgrove.
