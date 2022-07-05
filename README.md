@@ -36,7 +36,7 @@
   ##  URL
   https://drive.google.com/file/d/14H2MEo3KdwHTmrDNBJaUEgpZGafLFviN/view 
 
-  <img src="./dist/images/HTMLTeamProfile.png" alt="Generatedd HTML page screenshot" >
+  <img src="./dist/HTMLTeamProfile.png" alt="Generatedd HTML page screenshot" >
 
   ## Questions
   If you have any questions about this projects, please contact me directly at Wmhhardgroveiv@gmail.com. You can view more of my projects at https://github.com/WmHHardgrove.
